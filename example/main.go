@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	aliyunsmsclient "github.com/RainerYang/aliyum-sms"
+	aliyunsmsclient "github.com/RainerYang/aliyun-sms"
 )
 
 var (

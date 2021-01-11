@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	aliyunsmslib "github.com/RainerYang/aliyum-sms/sms-lib"
+	aliyunsmslib "github.com/RainerYang/aliyun-sms/sms-lib"
 )
 
 type SmsClient struct {
