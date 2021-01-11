@@ -1,4 +1,4 @@
-module github.com/RainerYang/aliyum-sms
+module github.com/RainerYang/aliyun-sms
 
 go 1.15
 
