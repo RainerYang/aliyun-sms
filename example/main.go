@@ -1,9 +1,10 @@
 package main
 
 import (
-	aliyunsmsclient "cloud-backend/aliyun-communicate"
 	"encoding/json"
 	"fmt"
+
+	aliyunsmsclient "github.com/RainerYang/aliyum-sms"
 )
 
 var (

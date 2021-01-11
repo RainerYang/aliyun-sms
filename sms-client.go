@@ -3,10 +3,11 @@
 package aliyunsmsclient
 
 import (
-	aliyunsmslib "cloud-backend/aliyun-communicate/sms-lib"
 	"encoding/json"
 	"io/ioutil"
 	"net/http"
+
+	aliyunsmslib "github.com/RainerYang/aliyum-sms/sms-lib"
 )
 
 type SmsClient struct {
